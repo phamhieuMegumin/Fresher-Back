@@ -1,0 +1,14 @@
+D:\FresherTest\MISA.Fresher\MISA.Fresher.Core\bin\Debug\net5.0\MISA.Fresher.Core.deps.json
+D:\FresherTest\MISA.Fresher\MISA.Fresher.Core\bin\Debug\net5.0\MISA.Fresher.Core.dll
+D:\FresherTest\MISA.Fresher\MISA.Fresher.Core\bin\Debug\net5.0\ref\MISA.Fresher.Core.dll
+D:\FresherTest\MISA.Fresher\MISA.Fresher.Core\bin\Debug\net5.0\MISA.Fresher.Core.pdb
+D:\FresherTest\MISA.Fresher\MISA.Fresher.Core\obj\Debug\net5.0\MISA.Fresher.Core.csprojAssemblyReference.cache
+D:\FresherTest\MISA.Fresher\MISA.Fresher.Core\obj\Debug\net5.0\MISA.Fresher.Core.Properties.Resources.resources
+D:\FresherTest\MISA.Fresher\MISA.Fresher.Core\obj\Debug\net5.0\MISA.Fresher.Core.csproj.GenerateResource.cache
+D:\FresherTest\MISA.Fresher\MISA.Fresher.Core\obj\Debug\net5.0\MISA.Fresher.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\FresherTest\MISA.Fresher\MISA.Fresher.Core\obj\Debug\net5.0\MISA.Fresher.Core.AssemblyInfoInputs.cache
+D:\FresherTest\MISA.Fresher\MISA.Fresher.Core\obj\Debug\net5.0\MISA.Fresher.Core.AssemblyInfo.cs
+D:\FresherTest\MISA.Fresher\MISA.Fresher.Core\obj\Debug\net5.0\MISA.Fresher.Core.csproj.CoreCompileInputs.cache
+D:\FresherTest\MISA.Fresher\MISA.Fresher.Core\obj\Debug\net5.0\MISA.Fresher.Core.dll
+D:\FresherTest\MISA.Fresher\MISA.Fresher.Core\obj\Debug\net5.0\ref\MISA.Fresher.Core.dll
+D:\FresherTest\MISA.Fresher\MISA.Fresher.Core\obj\Debug\net5.0\MISA.Fresher.Core.pdb

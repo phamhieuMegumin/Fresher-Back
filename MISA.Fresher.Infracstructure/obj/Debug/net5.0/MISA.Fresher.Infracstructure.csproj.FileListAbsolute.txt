@@ -1,0 +1,15 @@
+D:\FresherTest\MISA.Fresher\MISA.Fresher.Infracstructure\bin\Debug\net5.0\MISA.Fresher.Core.dll
+D:\FresherTest\MISA.Fresher\MISA.Fresher.Infracstructure\obj\Debug\net5.0\MISA.Fresher.Infracstructure.csprojAssemblyReference.cache
+D:\FresherTest\MISA.Fresher\MISA.Fresher.Infracstructure\obj\Debug\net5.0\MISA.Fresher.Infracstructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\FresherTest\MISA.Fresher\MISA.Fresher.Infracstructure\obj\Debug\net5.0\MISA.Fresher.Infracstructure.AssemblyInfoInputs.cache
+D:\FresherTest\MISA.Fresher\MISA.Fresher.Infracstructure\obj\Debug\net5.0\MISA.Fresher.Infracstructure.AssemblyInfo.cs
+D:\FresherTest\MISA.Fresher\MISA.Fresher.Infracstructure\bin\Debug\net5.0\MISA.Fresher.Infracstructure.deps.json
+D:\FresherTest\MISA.Fresher\MISA.Fresher.Infracstructure\bin\Debug\net5.0\MISA.Fresher.Infracstructure.dll
+D:\FresherTest\MISA.Fresher\MISA.Fresher.Infracstructure\bin\Debug\net5.0\ref\MISA.Fresher.Infracstructure.dll
+D:\FresherTest\MISA.Fresher\MISA.Fresher.Infracstructure\bin\Debug\net5.0\MISA.Fresher.Infracstructure.pdb
+D:\FresherTest\MISA.Fresher\MISA.Fresher.Infracstructure\bin\Debug\net5.0\MISA.Fresher.Core.pdb
+D:\FresherTest\MISA.Fresher\MISA.Fresher.Infracstructure\obj\Debug\net5.0\MISA.Fresher.Infracstructure.csproj.CoreCompileInputs.cache
+D:\FresherTest\MISA.Fresher\MISA.Fresher.Infracstructure\obj\Debug\net5.0\MISA.Fresher.Infracstructure.csproj.CopyComplete
+D:\FresherTest\MISA.Fresher\MISA.Fresher.Infracstructure\obj\Debug\net5.0\MISA.Fresher.Infracstructure.dll
+D:\FresherTest\MISA.Fresher\MISA.Fresher.Infracstructure\obj\Debug\net5.0\ref\MISA.Fresher.Infracstructure.dll
+D:\FresherTest\MISA.Fresher\MISA.Fresher.Infracstructure\obj\Debug\net5.0\MISA.Fresher.Infracstructure.pdb
